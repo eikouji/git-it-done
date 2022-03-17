@@ -11,7 +11,7 @@ A module project to learn third party APIs.
 
 # What I learned specfically that will help me in the long run #
 I thought 1(one) = l (lower case L), so I kept typing repoE1 (one) instead of repoEl (element) for all my variables.
-  - By learning this small difference, and catching my tiny mistake, and because 1 looks identical to lowercase l in this font, I may've just caught myself on several layers of errors I may've made in the past with using one type of variable (labelE1 (one)) and mixing up with a different variable (labelEl (element).
+  - By learning this small difference, and catching my tiny mistake, and because 1 looks identical to lowercase l in coding font, I may've just caught myself on several layers of errors I may've made in the past with using one type of variable (labelE1 (one)) and mixing up with a different variable (labelEl (element).
 
 Now that I know that a variable, like repoEl is actually l for L, like in ELEMENT, the rest of my coding and coding projects SHOULD be a little easier to understand and for anyone looking at my code to understand. 
 
